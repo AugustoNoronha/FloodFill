@@ -1,4 +1,10 @@
-# Sistema de Mapeamento Inteligente para Robôs Autônomos
+# Sistema de Mapeamento Inteligente para Robôs Autônomos\
+
+## Contribuidores
+
+- [Augusto Noronha](https://github.com/AugustoNoronha)
+- [Gabriel Lourenço](https://github.com/gabrielreisresende)
+- [Pedro Máximo](https://github.com/pedromaximocampos)
 
 ## Visão Geral do Projeto
 
