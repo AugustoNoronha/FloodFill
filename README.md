@@ -1,4 +1,4 @@
-# Sistema de Mapeamento Inteligente para Robôs Autônomos\
+# Sistema de Mapeamento Inteligente para Robôs Autônomos
 
 ## Contribuidores
 
